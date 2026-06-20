@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latidos agonizantes
+
+This log tracks the cryptographic history and versioning for the song **Latidos agonizantes** (latidos-agonizantes).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T08:53:30.394853 | `v1` | `ee08071080da6efd5d3af7c735f01806190c6d665b5ecc399c060ffbe90cccbb` | `ba6f531266aee40322e966c04972035fb725920047d8c3c4d1befcff6305a42d` | `2026-06-20_latidos-agonizantes-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
