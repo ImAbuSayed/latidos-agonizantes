@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latidos-agonizantes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Latidos agonizantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-agonizantes/) |
+| **Get License** | [Official Music Licensing for Latidos agonizantes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latidos-agonizantes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Late nights, your body's calling my name
+> Heartbeats like thunder in this midnight game
+> One touch and I'm lost inside your flame
+> Tell me you feel it, don't play it the same
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
